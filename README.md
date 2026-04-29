@@ -1,11 +1,8 @@
 # 屏幕感知-向量-大模型闭环自进化 AGI 框架
 **Screen-Vector-LLM Closed-Loop Self-Evolving AGI Framework**
 
-> 原创思路与框架设计：刘朕男 (ZHENNAN LIU)
 > 首次公开时间：2026-04-01
 > GitHub 地址：https://github.com/ZHENNAN-LIU/Screen-LLM-ClosedLoop-AGI-Framework
-> 状态：原创概念框架（仅用于学术溯源）
-
 ---
 
 ## 1. 框架概述
@@ -76,16 +73,4 @@ LLM 同时承担两大功能：
 3. **可落地、可引用、可溯源**，适用于桌面自动化、工控智能、自主运维、具身智能等领域。
 4. 本仓库为**全球最早公开的完整设计版本**，具备原创归属与学术溯源意义。
 
----
-
-## 6. 引用格式
-如在论文、项目、技术文档中参考或基于本框架实现，请引用：
-
-刘朕男. 屏幕感知-向量-大模型闭环自进化 AGI 框架. GitHub, 2026.
-https://github.com/ZHENNAN-LIU/Screen-LLM-ClosedLoop-AGI-Framework
-
----
-
-## 7. 声明
-本仓库为**原创思想与框架设计公开存档**，仅用于学术溯源、技术交流、创新保护。
 欢迎基于本框架开展研究与工程实现，**请注明来源与引用**。
